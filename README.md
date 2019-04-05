@@ -41,12 +41,3 @@ We are still working on increasing the accuracy of the detection and also implem
 
 
 
-CONTRIBUTION:
-
-You are allowed to add any cascade file to the repository
-
-You are allowed to download the c++ code and make suitable changes according to your convienience
-
-For any contribution mail your stuff to : abhishek4273@gmail.com
-
-Your contribution is highly appreciated.
